@@ -9,7 +9,7 @@
 - ⚙️ Learning app devlopment and making apps.
 - 💜 Interests: Playing chess,reading novels,listening music.
 - 😄 Till now I have no prior experience. Currently looking for an internship opportunity.
-- 😄 I am afast learner.
+- 😄 I am a fast learner.
 
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/a-s-v-k-vinayak-228a62127">LinkedIn</a>
