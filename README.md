@@ -15,6 +15,3 @@
 - 💼 <a href="https://www.linkedin.com/in/a-s-v-k-vinayak-228a62127">LinkedIn</a>
 - 🌐 <a href="https://asvkvinayak.github.com">Vinayak</a>
 - ☕ Have a Coffee with me : Email-asvkvinayak@gmail.com
-
-
--
