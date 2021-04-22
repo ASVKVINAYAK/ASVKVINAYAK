@@ -9,6 +9,7 @@
 - ⚙️ Learning app devlopment and making apps.
 - 💜 Interests: Playing chess,reading novels,listening music.
 - ⚙️  Till now I have no prior experience. Currently looking for an internship opportunity.
+- 🌍  Published a Research paper on Springer for my project [File Encryptor](https://link.springer.com/chapter/10.1007/978-981-15-6202-0_64)
 - ⚙️  I am a fast learner.
 
 #### Find me around the web 🌎:
