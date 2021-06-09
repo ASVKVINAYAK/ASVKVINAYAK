@@ -10,6 +10,7 @@
 - 💜 Interests: Playing chess,reading novels,listening music.
 - ⚙️  Till now I have no prior experience. Currently looking for an internship opportunity.
 - 🌍  Published a Research paper on Springer for my project [File Encryptor](https://link.springer.com/chapter/10.1007/978-981-15-6202-0_64)
+- 🌐 My Qwiklabs Public profile link <a href="https://www.qwiklabs.com/public_profiles/0f5f175e-e7a6-4862-ac8d-af61b397cf52">Link</a>
 - ⚙️  I am a fast learner.
 
 #### Find me around the web 🌎:
